@@ -1,0 +1,22 @@
+https://seekingalpha.com/
+https://stocktwits.com/
+https://www.ravenpack.com/
+
+https://twitter.com/ 
+# twitter en diferentes tags y personas influyentes en los mercados (Presidentes, secretarios de estado, 
+# dueños de compañias en mi portafolio, empresas y personas del mundo trading como warren buffet, etc)
+https://facebook.com/
+# pagina de facebook y publicidad de la empresa analizada
+https://www.forbes.com.mx/
+https://www.forbes.com/ 
+# forbes diferentes paises
+#periodicos 
+https://eluniversal.com
+
+# paginas oficiales de las empresas en mi portafolio (como conseguir datos anteriores??)
+# calendarios de eventos especiales como conciertos, partidos, festivales, premiaciones, estrenos, etc ( en caso de estar relacionados)
+# indicador de mercado (IPC, NASDAQ, etc)
+# inflación, precios de monedas relacionadas, contabilidad de la empresa
+
+newsapi #api para python
+

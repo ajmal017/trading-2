@@ -14,3 +14,17 @@ def CAPM(ri, rf, rm):
 
         rm – rf: Riesgo asociado al mercado en que cotiza el activo.
         ri – rf: Riesgo asociado al activo en concreto."""
+
+#*****quality******
+def current_ratio(assets,liabilities):
+        "the higher the better"
+        return assets/liabilities
+
+def asset_turnover(x):
+        total = sum(x)
+        b = x[0]
+        f = x[-1]       
+        at = total/((b+e)/2)
+        return at
+
+"Return on equity (ROE)"
